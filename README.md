@@ -1,5 +1,7 @@
 # HealthBot - Your Personal Health Assistant
 A medical chatbot powered by Microsoft Azure. For Future Ready Talent Project
+Web Technologies used : HTML, CSS, JS, Bootstrap
+IDE : VS-Code
 
 ## Project Description
 HealthBot is an intelligent health chatbot designed to address the need for accessible, reliable health information, and support. It aims to bridge the healthcare information gap, offering accurate information, personalized recommendations, and facilitating communication with healthcare professionals.
@@ -22,5 +24,13 @@ HealthBot is an intelligent health chatbot designed to address the need for acce
 - **Solution Explanation:** HealthBot directly addresses this by providing accurate information, personalized plans, and connecting users with healthcare experts, bridging the healthcare information gap and empowering informed health decisions.
 
 HealthBot leverages technology to offer a comprehensive health solution, making it a valuable resource for individuals seeking reliable health information and support.
+## Project ScreenShot:
+![FRT_1](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/94e17158-1bb1-4db6-9700-7428ce400c79)
+![FRT_2](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/74510e07-dac6-4f2a-b5ae-418703596bd4)
+![FRT_3](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/59f0a34b-38d8-48e1-bd45-1198f29ffc25)
 
-![HealthBot Logo](https://coffee-expert.github.io/Health-bot-FRT/images/spotlight01.jpg)
+## HealthBot Working ScreenShot:
+![FRT_6](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/07a77307-2254-4bcb-a794-a955278e815e)
+![FRT_5](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/8e43529c-a4b8-4823-9180-a9da671ec921)
+![FRT_4](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/82a9db0b-428c-4157-bd07-f1910154ea3f)
+
