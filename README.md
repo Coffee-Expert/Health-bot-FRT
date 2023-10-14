@@ -1,14 +1,15 @@
 # HealthBot - Your Personal Health Assistant
 A medical chatbot powered by Microsoft Azure. For Future Ready Talent Project
-Web Technologies used : HTML, CSS, JS, Bootstrap
-IDE : VS-Code
+
+## Web Technologies used : HTML, CSS, JS, Bootstrap
+## IDE : VS-Code
 
 ## Project Description
 HealthBot is an intelligent health chatbot designed to address the need for accessible, reliable health information, and support. It aims to bridge the healthcare information gap, offering accurate information, personalized recommendations, and facilitating communication with healthcare professionals.
 
 ## Project link:   https://github.com/Coffee-Expert/Health-bot-FRT   
 
-## Project Demo link:[coffee-expert.github.io/Health-bot-FRT/](https://coffee-expert.github.io/Health-bot-FRT/)
+## Project Demo link: [coffee-expert.github.io/Health-bot-FRT/](https://coffee-expert.github.io/Health-bot-FRT/)
 
 ## Key Features
 
