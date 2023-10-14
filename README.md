@@ -6,6 +6,10 @@ IDE : VS-Code
 ## Project Description
 HealthBot is an intelligent health chatbot designed to address the need for accessible, reliable health information, and support. It aims to bridge the healthcare information gap, offering accurate information, personalized recommendations, and facilitating communication with healthcare professionals.
 
+## Project link: coffee-expert.github.io/Health-bot-FRT/
+
+## Project Demo link: https://github.com/Coffee-Expert/Health-bot-FRT
+
 ## Key Features
 
 1. **Health Information Repository:** HealthBot provides a vast database of credible health content, from articles to videos, readily accessible to users.
