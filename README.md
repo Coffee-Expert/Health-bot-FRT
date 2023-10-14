@@ -2,7 +2,7 @@
 A medical chatbot powered by Microsoft Azure. For Future Ready Talent Project
 
 ## Web Technologies used : HTML, CSS, JS, Bootstrap
-## IDE : VS-Code
+## IDE : Visual Studio Code
 
 ## Project Description
 HealthBot is an intelligent health chatbot designed to address the need for accessible, reliable health information, and support. It aims to bridge the healthcare information gap, offering accurate information, personalized recommendations, and facilitating communication with healthcare professionals.
