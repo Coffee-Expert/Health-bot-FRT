@@ -45,7 +45,7 @@ HealthBot leverages technology to offer a comprehensive health solution, making 
 ## Created, with love, by:
 <ul>
   <li> Akshit Kumar Tiwari </li>
-  <li>  Abhishek Kevin Gomes  [Lead](https://github.com/Coffee-Expert)   </li> 
+  <li>  Abhishek Kevin Gomes  [Lead]  </li> 
 </ul>
 
 
