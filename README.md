@@ -32,7 +32,7 @@ HealthBot leverages technology to offer a comprehensive health solution, making 
 ## Project ScreenShot:
 ![FRT_1](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/94e17158-1bb1-4db6-9700-7428ce400c79)
 ![FRT_2](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/74510e07-dac6-4f2a-b5ae-418703596bd4)
-![FRT_3](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/59f0a34b-38d8-48e1-bd45-1198f29ffc25)
+![FRT_3](https://github.com/Coffee-Expert/Health-bot-FRT/blob/main/images/CSS%20button%20nice%20huh.jpeg)
 
 ## HealthBot Working ScreenShot:
 ![FRT_6](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/07a77307-2254-4bcb-a794-a955278e815e)
@@ -40,7 +40,7 @@ HealthBot leverages technology to offer a comprehensive health solution, making 
 ![FRT_4](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/82a9db0b-428c-4157-bd07-f1910154ea3f)
 ## Azure services and Working:
 ![FRT_01](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/12c7b7ce-9665-497b-a96a-2929ced44e79)
-![FRT_02](https://github.com/Coffee-Expert/Health-bot-FRT/blob/main/assets/newflowchart.png)
+![FRT_02](https://github.com/Coffee-Expert/Health-bot-FRT/blob/main/images/newflowchart.png)
 
 ## Created, with love, by:
 <ul>
