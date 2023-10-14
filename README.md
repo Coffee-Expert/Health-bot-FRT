@@ -43,8 +43,8 @@ HealthBot leverages technology to offer a comprehensive health solution, making 
 ![FRT_02](https://github.com/Coffee-Expert/Health-bot-FRT/blob/main/assets/newflowchart.png)
 
 ## Created, with love, by:
-Akshit Kumar Tiwari
-Abhishek Kevin Gomes [Coffee-Expert] (https://github.com/Coffee-Expert)
+Akshit Kumar Tiwari <br>
+Abhishek Kevin Gomes [Coffee- Expert](https://github.com/Coffee-Expert)
 <!--- Previous image link-- https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/e6d622c8-fb30-450b-9761-4a5cd68b005b -->
 
 
