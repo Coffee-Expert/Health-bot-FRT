@@ -9,7 +9,7 @@ HealthBot is an intelligent health chatbot designed to address the need for acce
 
 ## Project link:   https://github.com/Coffee-Expert/Health-bot-FRT   
 
-## Project Demo link: [coffee-expert.github.io/Health-bot-FRT/](https://coffee-expert.github.io/Health-bot-FRT/)
+## Project Demo link: healthcarebot.azurewebsites.net
 
 ## Key Features
 
