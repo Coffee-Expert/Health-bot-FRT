@@ -1,8 +1,11 @@
 # HealthBot - Your Personal Health Assistant
 A medical chatbot powered by Microsoft Azure. For Future Ready Talent Project
 
-## Web Technologies used : HTML, CSS, JS, Bootstrap
+## Web Technologies used : HTML, CSS, JS, Bootstrap, 
+## Azure Services Used: Azure Health Bot, Azure Web Apps Service
 ## IDE : Visual Studio Code
+
+
 
 ## Project Description
 HealthBot is an intelligent health chatbot designed to address the need for accessible, reliable health information, and support. It aims to bridge the healthcare information gap, offering accurate information, personalized recommendations, and facilitating communication with healthcare professionals.
