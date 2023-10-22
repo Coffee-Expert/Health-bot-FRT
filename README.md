@@ -32,7 +32,7 @@ HealthBot is an intelligent health chatbot designed to address the need for acce
 - **Solution Explanation:** HealthBot directly addresses this by providing accurate information, personalized plans, and connecting users with healthcare experts, bridging the healthcare information gap and empowering informed health decisions.
 
 HealthBot leverages technology to offer a comprehensive health solution, making it a valuable resource for individuals seeking reliable health information and support.
-## Project ScreenShot:
+## Project Screenshots:
 ![FRT_1](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/94e17158-1bb1-4db6-9700-7428ce400c79)
 ![FRT_2](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/74510e07-dac6-4f2a-b5ae-418703596bd4)
 ![FRT_3](https://github.com/Coffee-Expert/Health-bot-FRT/blob/main/images/CSS%20button%20nice%20huh.jpeg)
